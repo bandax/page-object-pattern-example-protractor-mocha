@@ -1,0 +1,23 @@
+{
+  "name": "page-object-pattern-example-protractor-mocha",
+  "version": "1.0.0",
+  "description": "Repository to implement page object pattern using protractor with mocha",
+  "main": "index.js",
+  "scripts": {
+    "test": "protractor ./config/protractor.config.js --disableChecks"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bandax/page-object-pattern-example-protractor-mocha.git"
+  },
+  "author": "Luis Banda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bandax/page-object-pattern-example-protractor-mocha/issues"
+  },
+  "homepage": "https://github.com/bandax/page-object-pattern-example-protractor-mocha#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.0.1"
+  }
+}
